@@ -10,7 +10,6 @@
 ###
 
 # Global variables
-declare SHOW=true
 declare separator="-------------------"
 
 # Numerical variables
